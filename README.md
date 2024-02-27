@@ -1,1 +1,1 @@
-# Site-do-col-gio-2024
+# Site-do-colégio-2024
