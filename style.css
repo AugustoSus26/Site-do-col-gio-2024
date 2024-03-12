@@ -1,3 +1,8 @@
+*{
+    margin: 0;
+    padding: 24px 0;
+}
+
 header {
     background-color: rgb(16, 113, 13);
     color:white
@@ -18,7 +23,24 @@ body {
     font-size: 28px;
 }
 
-*{
-    margin: 0;
-    padding: 24px 0;
+
+.escola-imagem {
+    width: 25%;
+}
+
+.escola {
+    background-image: linear-gradient(rgb(16, 113, 13),rgb(195, 189, 189));
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px;
+}
+
+.escola-div-conteudo {
+    width: 35%;
+}
+
+.escola-titulo {
+    padding: 24px;
 }
