@@ -3,18 +3,17 @@
     padding: 24px 0;
 }
 
-header {
-    background-color: rgb(16, 113, 13);
-    color:white
-}
-
 body {
-    background-color: rgb(195, 189, 189);
+    font-family: 'Averia', sans-libre;
 }
 
 .cabecalho {
+    background-color: rgb(16, 113, 13);
+    color:white;
     display: flex;
     justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
 }
 
 .cabecalho-lista-item {
@@ -34,7 +33,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 24px;
+    padding: 24px 0;
 }
 
 .escola-div-conteudo {
@@ -42,5 +41,5 @@ body {
 }
 
 .escola-titulo {
-    padding: 24px;
+    padding: 24px 0;
 }
